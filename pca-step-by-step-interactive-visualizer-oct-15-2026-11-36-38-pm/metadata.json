@@ -1,0 +1,6 @@
+{
+  "name": "PCA Step-by-Step Interactive Visualizer",
+  "description": "Interactive educational and research platform for Applied Machine Learning demonstrating PCA preprocessing, mean centering, covariance analysis, eigenvector decomposition, orthogonal projection, and reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
